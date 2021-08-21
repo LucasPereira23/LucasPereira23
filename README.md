@@ -1,16 +1,14 @@
-### Hi there 👋
+# Lucas Pereira Alves
 
-<!--
-**LucasPereira23/LucasPereira23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá pessoal 👋
+Sou apaixonado por resolver problemas utilizando a programação.
+Sou um Web Developer :computer:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 💻  &nbsp; Estou cursando o segundo semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na universidade UNISALESIANO
+ <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end
+ <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento WEB
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, C++, Javascript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasPereiraAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/)](https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-lucas_231200@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucas_231200@hotmail.com)](mailto:lucas_231200@hotmail.com)
