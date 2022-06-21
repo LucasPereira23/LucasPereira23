@@ -7,7 +7,7 @@ Sou um Web Developer :computer:
  💻  &nbsp; Estou cursando o quarto semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na universidade UNISALESIANO
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento WEB
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, C++, Javascript
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, C++, Javascript, PHP, DELPHI
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasPereiraAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/)](https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/) 
 | 
