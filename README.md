@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
- 💻  &nbsp; Estou cursando o quinto semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na universidade UNISALESIANO
+ 💻  &nbsp; Estou cursando o sexto(último) semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na universidade UNISALESIANO
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento WEB
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, React.js, Python C++, PHP, DELPHI
