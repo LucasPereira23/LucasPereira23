@@ -4,7 +4,7 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
- 💻  &nbsp; Formado em Tecnologia em Análise e Desenvolvimento de Sistemas
+ 💻  &nbsp; Formado em Análise e Desenvolvimento de Sistemas
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento WEB
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, React, Shopify, Node.js, Liquid, Git
