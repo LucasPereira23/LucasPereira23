@@ -4,10 +4,10 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Web Developer :computer:
 
- 💻  &nbsp; Estou cursando o sexto(último) semestre de Tecnologia em Análise e Desenvolvimento de Sistemas na universidade UNISALESIANO
+ 💻  &nbsp; Formado em Tecnologia em Análise e Desenvolvimento de Sistemas
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento WEB
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, React.js, Python C++, PHP, DELPHI
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, React, Shopify, Node.js, Liquid, Git
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasPereiraAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/)](https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/) 
 | 
