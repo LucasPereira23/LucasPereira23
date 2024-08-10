@@ -7,7 +7,7 @@ Sou um Web Developer :computer:
  💻  &nbsp; Formado em Análise e Desenvolvimento de Sistemas
  <br/> ⚙️ &nbsp; Buscando colaborar com projetos em Frontend
  <br/> :blush: &nbsp; Posso te ajudar com problemas de lógica e desenvolvimento WEB
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, React, Shopify, Node.js, Liquid, Git
+ <br/> :computer: &nbsp; Minha stack: HTML, CSS, JavaScript, React, Vue.js, Shopify, Liquid, Java, Git
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, jogos e séries
  <br/> 📧 &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LucasPereiraAlves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/)](https://www.linkedin.com/in/lucas-pereira-alves-5164aa20a/) 
 | 
